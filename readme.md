@@ -13,7 +13,7 @@ A simple Streamlit web application that demonstrates the OpenAI Moderation API f
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/yourusername/openai-moderation-demo.git
+   git clone https://github.com/MaximilianRogath/openai-api-moderation-demo.git
    cd openai-moderation-demo
    ```
 
