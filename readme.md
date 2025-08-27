@@ -14,7 +14,7 @@ A simple Streamlit web application that demonstrates the OpenAI Moderation API f
 1. **Clone the repository:**
    ```bash
    git clone https://github.com/MaximilianRogath/OpenAI-API-Moderation-Demo.git
-   cd openai-moderation-demo
+   cd OpenAI-API-Moderation-Demo
    ```
 
 2. **Install dependencies:**
@@ -33,7 +33,7 @@ A simple Streamlit web application that demonstrates the OpenAI Moderation API f
 
 1. **Start the Streamlit app:**
    ```bash
-   streamlit run app.py
+streamlit run "Streamlit Moderation App.py"
    ```
 
 2. **Open your browser** and navigate to `http://localhost:8501`
